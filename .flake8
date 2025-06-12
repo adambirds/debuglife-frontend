@@ -1,0 +1,8 @@
+[flake8]
+extend-ignore = E203, E501, E266
+exclude =
+    .git,
+    __pycache__,
+    venv,
+    debuglife-frontend/node_modules,
+max-complexity = 10
