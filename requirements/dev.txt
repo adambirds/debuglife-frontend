@@ -115,12 +115,6 @@ coverage==7.7.0 \
     --hash=sha256:f32b165bf6dfea0846a9c9c38b7e1d68f313956d60a15cde5d1709fddcaf3bee \
     --hash=sha256:f5a2f71d6a91238e7628f23538c26aa464d390cbdedf12ee2a7a0fb92a24482a \
     --hash=sha256:f81fe93dc1b8e5673f33443c0786c14b77e36f1025973b85e07c70353e46882b
-    # via
-    #   -r requirements/dev.in
-    #   django-coverage-plugin
-django-coverage-plugin==3.1.0 \
-    --hash=sha256:223d34bf92bebadcb8b7b89932480e41c7bd98b44a8156934488fbe7f4a71f99 \
-    --hash=sha256:eb0ea8ffdb0db11a02994fc99be6500550efb496c350d709f418ff3d8e553a67
     # via -r requirements/dev.in
 flake8==7.1.2 \
     --hash=sha256:1cbc62e65536f65e6d754dfe6f1bada7f5cf392d6f5db3c2b85892466c3e7c1a \
